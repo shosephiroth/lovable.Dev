@@ -4,7 +4,7 @@ Lovable.Dev projects
 ## Celestial Placidus Oracle
 <a href="https://celestial-placidus-oracle.lovable.app" target="_blank">https://celestial-placidus-oracle.lovable.app</a>
 
-[link](https://celestial-placidus-oracle.lovable.app){:target="_blank"}
+[link](https://celestial-placidus-oracle.lovable.app){:target="_blank"}https://celestial-placidus-oracle.lovable.app[/link]
 
 
 ## Neurodivergent Assessment Hub
