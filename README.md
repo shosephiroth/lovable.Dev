@@ -6,3 +6,6 @@ Lovable.Dev projects
 
 ## Neurodivergent Assessment Hub
 <a href="https://neuro-assessment-hub.lovable.app" target="_blank">https://neuro-assessment-hub.lovable.app</a>
+
+## Salary Smart Spender
+<a href="https://salary-smart-spender.lovable.app/" target="_blank">https://salary-smart-spender.lovable.app/</a>
