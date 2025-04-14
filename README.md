@@ -1,5 +1,5 @@
-# lovable.Dev
-Lovable.Dev projects
+# lovable.dev
+lovable.dev projects
 
 ## Celestial Placidus Oracle
 <a href="https://celestial-placidus-oracle.lovable.app" target="_blank">https://celestial-placidus-oracle.lovable.app</a>
