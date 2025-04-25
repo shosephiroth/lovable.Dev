@@ -13,3 +13,7 @@ lovable.dev projects
 ## Salary Smart Spender
 <a href="https://salary-smart-spender.lovable.app/" target="_blank">https://salary-smart-spender.lovable.app/</a>
 
+## Tech Support Journey Guide
+<a href="https://tech-support-journey-guide.lovable.app/" target="_blank">https://tech-support-journey-guide.lovable.app/</a>
+
+
